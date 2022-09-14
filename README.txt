@@ -1,6 +1,1 @@
-- 👋 Hi, I’m @matttyyo
-- 👀 I’m interested in making websites and fun projects
-- 🌱 I’m currently learning HTML, CSS, JS and Python
-- 💞️ I’m looking to collaborate with nobody.
-- 📫 How to reach me is to dm me on discord: rxsh82#0247
-- Have a great day.
+balls
